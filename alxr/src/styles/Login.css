@@ -1,0 +1,9 @@
+#container{
+    width: 25%;
+    height: 280px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    /* color: blue; */
+}
