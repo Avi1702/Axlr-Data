@@ -1,3 +1,15 @@
+# Deployed Link : https://alxr-data.netlify.app/login
+
+# To get Logged into it use :
+   Email    : eve.holt@reqres.in
+   Password : cityslicka
+
+# Tech Stacks Used 
+  1. React.JS
+  2. Redux
+  3. Material UI
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
